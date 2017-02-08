@@ -1,0 +1,6 @@
+C:\Users\Noirana\projects\HeatExchanger\HeatExchanger\bin\Debug\HeatExchanger.exe.config
+C:\Users\Noirana\projects\HeatExchanger\HeatExchanger\obj\Debug\HeatExchanger.csprojResolveAssemblyReference.cache
+C:\Users\Noirana\projects\HeatExchanger\HeatExchanger\bin\Debug\HeatExchanger.exe
+C:\Users\Noirana\projects\HeatExchanger\HeatExchanger\bin\Debug\HeatExchanger.pdb
+C:\Users\Noirana\projects\HeatExchanger\HeatExchanger\obj\Debug\HeatExchanger.exe
+C:\Users\Noirana\projects\HeatExchanger\HeatExchanger\obj\Debug\HeatExchanger.pdb
