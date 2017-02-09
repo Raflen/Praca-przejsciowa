@@ -1,0 +1,10 @@
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\bin\Debug\HeatExchangerGUI.exe.config
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\bin\Debug\HeatExchangerGUI.exe
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\bin\Debug\HeatExchangerGUI.pdb
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\obj\Debug\HeatExchangerGUI.csprojResolveAssemblyReference.cache
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\obj\Debug\HeatExchangerGUI.Form1.resources
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\obj\Debug\HeatExchangerGUI.Properties.Resources.resources
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\obj\Debug\HeatExchangerGUI.csproj.GenerateResource.Cache
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\obj\Debug\HeatExchangerGUI.exe
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\obj\Debug\HeatExchangerGUI.pdb
+C:\Users\Noirana\projects\HeatExchangerGUI\HeatExchangerGUI\obj\Debug\HeatExchangerGUI.Form2.resources
